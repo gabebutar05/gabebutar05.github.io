@@ -14,3 +14,16 @@ footer {
     min-height: 50px;
     padding-top:12px;
 }
+.experience {
+    margin-left: 50px;
+    padding: 20px 0;
+}
+.experine {
+    background-color: #e9ecef;
+}
+.contact {
+    background-color: #e9ecef;
+}
+.text-center {
+    padding-top: 30px;
+}
